@@ -1,1 +1,1 @@
-devops training
+learning linux shell basics
